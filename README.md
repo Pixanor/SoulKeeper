@@ -38,3 +38,7 @@ $ sudo ./soulkeeper
 [+] Found wrapping key: <key here>
 <List of passwords follows here>
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Pixanor/soulkeeper/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
